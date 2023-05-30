@@ -5,5 +5,5 @@ An restaurant invoice application includes the following functionalities:
 3. Deleting dishes.
 
 Algorithm flowchart for the application:
-https://github.com/NgHHie/KTMT/assets/93481305/0d191a05-8838-4c7f-9ece-d306ca72d328
+![image](https://github.com/NgHHie/KTMT/assets/93481305/24274604-2731-4e5d-abba-0d4f22a7d6ad)
 
